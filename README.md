@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Michael Senzenberger
 - 👀 I’m interested in C#, Java & C++
 - 🌱 I’m currently learning Genetic Algorithm 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me michaelsenzenberger93@gmail.com
 
 <!---
